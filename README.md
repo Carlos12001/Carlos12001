@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 About Me:
+Hi, I'm a **Computer Engineer** with a passion for both **low-level** systems and **high-level** development. I enjoy working across the stack, from deep down in the hardware layer with **assembly** and architectures like **RISC-V**, **MIPS**, and **ARM**, to building complex applications using **machine learning** and **web development** frameworks.
+
+I'm particularly passionate about **GNU/Linux** and have spent countless hours mastering its ins and outs. I'm someone who loves learning and is always eager to dive into new technologies. I consider myself **self-taught**, **adaptable**, and comfortable exploring a variety of fields within computing. Whether it's writing optimized code in assembly or experimenting with neural networks in Python, I’m always excited to grow and improve.
+
 
 
 # 💻 Tech Stack:
@@ -8,5 +12,21 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Carlos12001&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos12001&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🔭 I've worked on
+- Developing a complete system for **TECAir**, a low-cost airline, involving database design, API creation, web, and mobile development.
+- Implementing **reinforcement learning** models with **DQN** and **actor-critic** methods using **PyTorch**.
+
+## 🌱 I’m currently learning
+- **Machine learning techniques** like logistic regression, neural networks, and dimensionality reduction.
+- Advanced **signal processing** and **digital filtering** for real-world applications.
+
+## 💬 Ask me about
+- Anything related to **low-level programming**, **RISC-V**, **MIPS**, **ARM**, and **machine learning**.
+- How I manage full-stack projects using **PostgreSQL**, **Angular**, **Bootstrap**, **Entity Framework**, and more.
+
+## ⚡ Fun fact
+I love the challenge of balancing between working on **embedded systems** and developing high-level **web applications**. It keeps me grounded and sharp across the entire tech spectrum!
+
 
 
