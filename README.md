@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm a **Electrical and Computer Engineer** with a passion for both **low-level** systems and **high-level** development. I enjoy working across the stack, from deep down in the hardware layer with **assembly** and architectures like **RISC-V** and **ARM**, also worked on building complex applications using _machine learning_ and _web development_ frameworks.
+Hi, I'm a **Electrical and Computer Engineer** with a passion for both **low-level** systems. I enjoy working across the stack, from deep down in the hardware layer with **assembly** and architectures like **RISC-V** and **ARM**, also worked on building complex applications using _machine learning_ and _web development_ frameworks.
 
 I'm particularly passionate about **GNU/Linux** and have spent countless hours mastering its ins and outs. I'm someone who loves learning and is always eager to dive into new technologies. I consider myself **self-taught**, **adaptable**, and comfortable exploring a variety of fields within computing. Whether it's writing optimized code in assembly or experimenting with neural networks in Python, I’m always excited to grow and improve.
 
